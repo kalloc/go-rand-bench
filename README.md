@@ -44,6 +44,7 @@ SquVJQ5yYD
 ## Explanation
 
 This is a small example showing how `fmt` can be expensive.
+Please note that `math/rand` is not a good source for generating passwords and keys, use `crypt/rand` instead.
 
 ## Benchmark
 
